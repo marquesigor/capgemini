@@ -1,4 +1,4 @@
-package com.capegemini.javaTest;
+package com.capegemini.javaTest.fourthExercise;
 
 import java.io.IOException;
 import java.io.PrintWriter;
