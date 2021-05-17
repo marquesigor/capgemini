@@ -1,4 +1,4 @@
-# Hello, Capgemini!
+# Hello!
 
 This repository was created to facilitate the analysis of the answers to the requested questions.
 To test the answeres it is possible to call the methods through the main or to execute unit tests.
